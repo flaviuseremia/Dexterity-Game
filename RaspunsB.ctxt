@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=RaspunsB
+comment0.text=\r\n\ Aceasta\ clasa\ este\ desemnata\ pentru\ raspunsuri.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ AddRaspunsuriB()
+comment3.params=x
+comment3.target=void\ setB(int)
+comment3.text=\r\n\ metoda\ setB\ seteaza\ imaginea\ corespunzatoare\ raspunsului\ care\ trebuie\ afisat\r\n\ \ \ \ \ \ \ in\ concordanta\ cu\ raspunsul\ celalalt\ si\ intrebarea.\r\n
+numComments=4

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Semn
+comment0.text=\r\n\ Aceasta\ clasa\ este\ creata\ pentru\ a\ derula\ imaginile\ unor\ semne\ pe\ marginea\ drumului.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ AddImages()
+comment3.params=
+comment3.target=void\ adaugare()
+comment4.params=
+comment4.target=void\ scroll()
+numComments=5

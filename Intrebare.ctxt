@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Intrebare
+comment0.text=\r\n\ Aceasta\ Clasa\ este\ creata\ pentru\ a\ afisa\ intrebari.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ AddIntrebari()
+comment3.params=x
+comment3.target=void\ set(int)
+comment3.text=\r\n\ metoda\ set\ seteaza\ imaginea\ corespunzatoare\ intrebarii\ care\ trebuie\ afisat\r\n\ \ \ \ \ \ \ in\ concordanta\ cu\ raspunsurile.\r\n
+numComments=4

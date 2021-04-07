@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Butoi
+comment0.text=\r\n\ Clasa\ Butoi\ este\ creata\ pentru\ a\ spawna\ obstacolele.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ scroll()
+comment3.params=
+comment3.target=void\ margine()
+comment3.text=\r\n\ Metoda\ margine\ aseaza\ obstacolele\ inapoi\ la\ punctul\ de\ plecare\ cand\ ating\r\n\ \ \ \ margine\ si\ le\ seteaza\ pe\ o\ anumita\ pozitie\ prestabilita\ aleatoare\ si\ cu\ o\r\n\ \ \ \ imagine\ aleatoare\ din\ cele\ 3.\r\n
+numComments=4

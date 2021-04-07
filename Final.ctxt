@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Final
+comment0.text=\r\n\ Aceasta\ clasa\ este\ finalul\ care\ se\ deblocheaza\ doar\ daca\ ajungi\ la\ un\ anumit\ punctaj.\r\n
+comment1.params=
+comment1.target=Final()
+comment2.params=
+comment2.target=void\ prepare()
+numComments=3

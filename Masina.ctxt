@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Masina
+comment0.text=\r\n\ Aceasta\ clasa\ este\ desemnata\ masinii\ care\ face\ deplasarea.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ handleMovement()
+comment2.text=\r\n\ \ \ \ @metoda\ handleMovement\ misca\ masina.\r\n
+comment3.params=
+comment3.target=void\ atingereObstacol()
+comment4.params=
+comment4.target=void\ atingereMargine()
+comment5.params=
+comment5.target=void\ ShowStatus()
+comment6.params=
+comment6.target=void\ increaseScore()
+comment7.params=
+comment7.target=void\ norocos()
+comment7.text=\r\n\ metoda\ norocos\ adauga\ la\ fiecare\ 150\ de\ puncte\ un\ trifoi\ norocos\ pe\ care\ daca\r\n\ \ \ \ il\ atingi\ primesti\ puncte;\r\n
+comment8.params=
+comment8.target=void\ updateTime()
+comment8.text=\r\n\ metoda\ updateTime\ are\ un\ timer\ care\ scade,\ iar\ cand\ ajunge\ la\ 0\ creste\ \r\n\ \ \ \ dificultatea\ jocului.\r\n
+comment9.params=
+comment9.target=void\ intrebari()
+comment9.text=\r\n\ metoda\ intrebari\ adauga\ intrebarile\ pe\ ecran\ si\ le\ sterge.\r\n
+numComments=10
